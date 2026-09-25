@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VibeTranslator V21",
+  "description": "Advanced multi-threaded subtitle translator and localization studio powered by Gemini 3.5-Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
